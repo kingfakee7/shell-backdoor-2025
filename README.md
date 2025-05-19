@@ -21,5 +21,6 @@ shell backdoor 2025 bypass shell backdoor
 
 
 ## 📛 Disclaimer
-⚠️ **PERINGATAN:** Tools ini hanya ditujukan untuk penggunaan legal dan edukatif. Penggunaan tanpa izin di sistem orang lain adalah **melanggar hukum**.
+⚠️ PERINGATAN: Tools ini hanya untuk penggunaan legal dan edukatif. Penggunaan tanpa izin di sistem orang lain yang tidak bersangkutan adalah melanggar hukum, dan pembuat tidak bertanggung jawab atas penyalahgunaan tersebut.
+
 ---
