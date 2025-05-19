@@ -18,3 +18,8 @@ shell backdoor 2025 bypass shell backdoor
 2. Akses melalui browser: `http://target.com/kingfakee-bypass-shell.php`
 3. Masukkan password saat diminta: KingFakee1337@Gacor
 4. Mulai eksplorasi shell dengan fitur-fitur yang tersedia.
+
+
+## 📛 Disclaimer
+⚠️ **PERINGATAN:** Tools ini hanya ditujukan untuk penggunaan legal dan edukatif. Penggunaan tanpa izin di sistem orang lain adalah **melanggar hukum**.
+---
